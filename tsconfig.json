@@ -1,0 +1,13 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"allowJs": false,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"target": "es2015"
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
